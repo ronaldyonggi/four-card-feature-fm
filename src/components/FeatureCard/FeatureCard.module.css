@@ -1,5 +1,5 @@
 .container {
-  background-color: var(--color-neutral-light-gray);
+  background-color: var(--color-white);
   box-shadow: 0 1rem 1rem 0.1rem rgba(36, 91, 143, 0.148);
   border-radius: 8px;
   margin-bottom: 1.5rem;
@@ -41,6 +41,7 @@ img {
     max-width: 300px;
     height: 14rem;
     display: flex;
+    padding: 1.5rem;
   }
 
   .imageContainer {
