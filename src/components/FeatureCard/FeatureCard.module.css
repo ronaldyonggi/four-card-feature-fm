@@ -1,0 +1,30 @@
+.container {
+    background-color: var(--color-neutral-light-gray);
+    box-shadow: 0 1rem 1rem 0.1rem rgba(36, 91, 143, 0.148);
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+    padding: 1rem 1rem;
+}
+
+.title {
+    color: var(--color-neutral-dark-blue);
+    font-weight: 600;
+    font-size: 1rem;
+    margin-bottom: 0.3rem;
+}
+
+.description {
+    color: var(--color-neutral-gray-blue);
+    font-size: 0.7rem;
+    margin-bottom: 1.4rem;
+    line-height: 1.8;
+}
+
+.imageContainer {
+    display: flex;
+    justify-content: end;
+}
+
+img {
+    width: 3rem;
+}
