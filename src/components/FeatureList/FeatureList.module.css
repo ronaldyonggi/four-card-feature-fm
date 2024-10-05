@@ -17,6 +17,7 @@
   .container {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(4, auto);
+    max-width: 950px;
   }
 
   .card1 {
