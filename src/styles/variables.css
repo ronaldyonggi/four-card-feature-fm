@@ -8,6 +8,7 @@
   --color-neutral-dark-blue: hsl(234, 12%, 34%);
   --color-neutral-gray-blue: hsl(229, 6%, 66%);
   --color-neutral-light-gray: hsl(0, 0%, 98%);
+  --color-white: hsl(0, 0%, 100%);
 
   /* Typography */
   --font-family-poppins: 'Poppins', sans-serif;
