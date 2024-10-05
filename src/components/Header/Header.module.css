@@ -13,11 +13,11 @@
 }
 
 .title, .subtitle {
-    font-size: 1.25rem;
+    font-size: 6.5vw;
 }
 
 .description {
     color: var(--color-neutral-gray-blue);
     margin-top: 1.5rem;
-    font-size: 0.8rem;
+    font-size: 4.2vw;
 }
