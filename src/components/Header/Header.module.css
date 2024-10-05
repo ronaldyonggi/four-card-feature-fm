@@ -1,0 +1,23 @@
+.header {
+    text-align: center;
+}
+
+.title {
+    font-weight: 300;
+    color: var(--color-neutral-dark-blue);
+}
+
+.subtitle {
+    font-weight: 600;
+    color: var(--color-neutral-dark-blue);
+}
+
+.title, .subtitle {
+    font-size: 1.25rem;
+}
+
+.description {
+    color: var(--color-neutral-gray-blue);
+    margin-top: 1.5rem;
+    font-size: 0.8rem;
+}
